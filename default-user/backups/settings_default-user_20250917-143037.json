@@ -2,13 +2,14 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "NavOpened": "false",
+        "NavOpened": "true",
         "LNavOpened": "false",
         "WINavOpened": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"3090278210222208\":{\"fieldsWarned\":{}}}}",
         "SelectedNavTab": "rm_button_characters",
         "AlertWI_A.U.T.O.png": "true",
         "AlertRegex_A.U.T.O.png": "true",
+        "AlertWI_萧谴写卡助手版V3.6.1Beta.png": "true",
         "AlertRegex_萧谴写卡助手版V3.6.1Beta.png": "true"
     },
     "currentVersion": "1.13.4",
@@ -507,7 +508,7 @@
                 "placement": [
                     2
                 ],
-                "disabled": true,
+                "disabled": false,
                 "markdownOnly": false,
                 "promptOnly": true,
                 "runOnEdit": true,
@@ -524,7 +525,7 @@
                 "placement": [
                     2
                 ],
-                "disabled": true,
+                "disabled": false,
                 "markdownOnly": true,
                 "promptOnly": true,
                 "runOnEdit": true,
@@ -747,7 +748,6 @@
             "isEnabled": false,
             "isCombined": false,
             "isPopout": false,
-            "showPopoutButton": true,
             "config": {
                 "setList": [
                     {
@@ -756,7 +756,20 @@
                     }
                 ]
             },
-            "characterConfigs": {}
+            "characterConfigs": {
+                "天童 爱丽丝.png": {
+                    "setList": []
+                },
+                "梅娅·S·艾菲梅拉尔.png": {
+                    "setList": []
+                },
+                "A.U.T.O.png": {
+                    "setList": []
+                },
+                "萧谴写卡助手版V3.6.1Beta.png": {
+                    "setList": []
+                }
+            }
         },
         "TavernHelper": {
             "enabled_extension": true,
@@ -817,9 +830,9 @@
         "梅娅·S·艾菲梅拉尔.png": [],
         "天童 爱丽丝.png": [],
         "clk-030女友的献祭游戏v1.1.png": [],
+        "萧谴写卡助手版V3.6.1Beta.png": [],
         "角色卡模板[配套萧谴写卡助手v3.6Beta].png": [],
-        "A.U.T.O.png": [],
-        "萧谴写卡助手版V3.6.1Beta.png": []
+        "A.U.T.O.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
